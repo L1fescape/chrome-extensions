@@ -1,0 +1,13 @@
+a {
+  color: #D9A796 !important;
+}
+a:hover {
+  text-decoration: underline !important;
+}
+
+body,
+.c00,
+table {
+  background-color: #070A0D;
+  color: #455159 !important;
+}

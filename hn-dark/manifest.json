@@ -1,0 +1,10 @@
+{
+  "name": "HN Dark",
+  "description": "Dark theme for hackernews",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [{
+    "css": [ "style.css" ],
+    "matches": [ "https://news.ycombinator.com/*" ]
+ }]
+}
