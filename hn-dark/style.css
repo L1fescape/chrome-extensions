@@ -25,3 +25,7 @@ body,
   background-color: var(--bg-color);
   color: var(--text-color) !important;
 }
+
+textarea {
+  background-color: var(--text-color);
+}
