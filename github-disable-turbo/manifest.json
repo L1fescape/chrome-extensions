@@ -1,0 +1,10 @@
+{
+  "name": "Github Disable Turbo",
+  "description": "Disable turbo links",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [{
+    "js": [ "script.js" ],
+    "matches": [ "https://github.com/*" ]
+ }]
+}
